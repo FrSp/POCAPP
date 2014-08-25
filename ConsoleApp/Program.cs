@@ -10,6 +10,8 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine(DateTime.Now.ToString());
+            Console.WriteLine("hello");
+            Console.WriteLine("world");
             Console.ReadLine();
         }
     }
