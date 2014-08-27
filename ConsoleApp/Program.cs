@@ -12,6 +12,7 @@ namespace ConsoleApp
             Console.WriteLine(DateTime.Now.ToString());
             Console.WriteLine("hello");
             Console.WriteLine("world");
+            Console.WriteLine(Environment.UserName);
             Console.ReadLine();
         }
     }
