@@ -14,6 +14,7 @@ namespace ConsoleApp
             Console.WriteLine("world");
             Console.WriteLine(Environment.UserName);
             Console.WriteLine("Feature added in branch");
+            Console.WriteLine("Extreamilly usefull function");
             Console.ReadLine();
         }
     }
