@@ -15,6 +15,7 @@ namespace ConsoleApp
             Console.WriteLine(Environment.UserName);
             Console.WriteLine("Feature added in branch");
             Console.WriteLine("Extreamilly usefull function");
+            Console.WriteLine("Another function");
             Console.ReadLine();
         }
     }
